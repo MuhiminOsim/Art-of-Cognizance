@@ -1,8 +1,12 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+It's Md. Muhiminul Islam who did his B.Sc. in Computer Science and Engineering at Khulna University of Engineering & Technology. I have recently joined Kite Games Studio as Jr. Software Engineer.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I really love solving competitive programming problems and playing with data structures and algorithms. I participated in a lot of online contests and in some onsite contests as well and have some remarkable achievements too. I also served as a problem setter and judge in some contests.
+
+I am the former president of SGIPC which is a university club for competitive programmers. I really loved leading those people to arrange workshops, contests and events to improve problem solving skills.
+
+Moreover, I love philosophy. Observations on lives and the mystery of the life is the thing that I am really interested in. This blog is not only about competitive programming and other CS fundamentals, but also about the cognizance of life. Some fragrance about philosophy may also be found.
