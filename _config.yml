@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Muhiminul Islam Osim"
   avatar : "/assets/images/compressed.jpg"
-  bio    : "CS graduate, Competitive Programmer, Problem Setter, Programming Trainer"
+  bio    : "Software Engineer, Researcher, Problem Setter & Judge, Programming Trainer"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
